@@ -1,0 +1,78 @@
+<hr>
+<div align="right" >
+<h1 align="right">Caractéristiques ℹ️</h1>
+{%if data.nom_serveur is not none %}Nom : {{data.nom_serveur}} <br />{% endif %}
+{%if data.marque_serveur is not none %}Marque : {{data.marque_serveur}} <br />{% endif %}
+{%if data.emplacement_serveur is not none %}Emplacement : {{data.emplacement_serveur}} <br />{% endif %}
+{%if data.status_serveur is not none %}Status : {{data.status_serveur}} <br />{% endif %}
+</div>
+<hr>
+
+<br />
+<br />
+<br />
+<br />
+<hr>
+<div align="left" >
+<h1 align="center">Rôle Principal ✅</h1>
+
+<br />
+
+{%if data.markdown_role_principal is not none %}{{data.markdown_role_principal}}{% endif %}
+
+<br />
+
+</div>
+<hr>
+
+<br />
+<br />
+<br />
+<br />
+<hr>
+
+<div align="left" >
+<h1 align="left">Infogerence 🏠</h1>
+<br />
+
+
+{%if data.markdown_infogerence is not none %}{{data.markdown_infogerence}}{% endif %}
+
+<br />
+</div>
+
+<hr>
+
+<br />
+<br />
+<br />
+<br />
+<hr>
+
+<div align="left" >
+<h1 align="left">Installation Mode Opératoire ✨</h1>
+<br />
+
+{%if data.markdown_mode_operatoire is not none %}{{data.markdown_mode_operatoire}}{% endif %}
+
+<br />
+</div>
+
+<hr>
+
+<br />
+<br />
+<br />
+<br />
+<hr>
+
+<div align="left" >
+<h1 align="left">Evaluation & Todo ⚠️</h1>
+<br />
+
+{%if data.markdown_evaluation_todo is not none %}{{data.markdown_evaluation_todo}}{% endif %}
+
+<br />
+</div>
+
+<hr>
