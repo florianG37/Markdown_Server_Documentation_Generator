@@ -1,8 +1,8 @@
 Markdown Generator - Generating Server Documentation
 
-Based on [markdown-readme-generator](https://github.com/pedroermarinho/markdown-readme-generator) project by  Pedro Marinho (GitHub : @pedroermarinho)
+Based on [markdown-readme-generator](https://github.com/pedroermarinho/markdown-readme-generator) project by  Pedro Marinho (GitHub : [@pedroermarinho](https://github.com/pedroermarinho/))
 
-Remastered by Florian GIGOT (Github : @florianG37).
+Remastered by Florian GIGOT (Github : [@florianG37](https://github.com/florianG37)).
 
 Copyright © 2020 [Florian GIGOT](https://github.com/florianG37).
 
