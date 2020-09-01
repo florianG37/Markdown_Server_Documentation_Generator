@@ -10,13 +10,19 @@ This project is [MIT](https://github.com/florianG37/Markdown_Server_Documentatio
 
 ## Installation
 
-- Installer python 3
-- Télécharger generator.zip
-- Lancer setup.bat
+- Installez python 3
+- Téléchargez generator.zip
+- Lancez setup.bat
 
 ## Utilisation
 
-- generateJSON.bat pour générer le JSON associé au template
-- Remplir le readme.json
-- Lancer generateMD.bat
+- Lancez generateJSON.bat pour générer le JSON associé au template
+- Remplissez le readme.json
+- Lancez generateMD.bat
 - Le résultat est écrit dans le fichier README.md
+
+## Modification du template
+
+- Model/readme.py :  Déclaration des variables
+- templates/default.pmd : Déclaration du template
+- infos.py : modifier le json généré par défaut
