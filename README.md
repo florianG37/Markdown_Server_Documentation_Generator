@@ -7,3 +7,16 @@ Remastered by Florian GIGOT (Github : [@florianG37](https://github.com/florianG3
 Copyright © 2020 [Florian GIGOT](https://github.com/florianG37).
 
 This project is [MIT](https://github.com/florianG37/Markdown_Server_Documentation_Generator/blob/master/LICENSE) licensed.
+
+## Installation
+
+- Installer python 3
+- Télécharger generator.zip
+- Lancer setup.bat
+
+## Utilisation
+
+- generateJSON.bat pour générer le JSON associé au template
+- Remplir le readme.json
+- Lancer generateMD.bat
+- Le résultat est écrit dans le fichier README.md
