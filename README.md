@@ -8,6 +8,8 @@ Copyright © 2020 [Florian GIGOT](https://github.com/florianG37).
 
 This project is [MIT](https://github.com/florianG37/Markdown_Server_Documentation_Generator/blob/master/LICENSE) licensed.
 
+# Notice utilisateur
+
 ## Installation
 
 - Installez python 3
