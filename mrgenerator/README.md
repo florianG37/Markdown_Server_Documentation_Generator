@@ -1,7 +1,7 @@
 <hr>
 <div align="right" >
 <h1 align="right">Caractéristiques ℹ️</h1>
-Nom : server  <br />
+Nom :   <br />
 Marque :   <br />
 Emplacement :   <br />
 Status :   <br />
